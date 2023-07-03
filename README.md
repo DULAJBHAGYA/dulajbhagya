@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dulaj Bhagya</h1>
+<h1 align="center">Hi 👋, I'm Dulaj Bhagya Upananda</h1>
 <h3 align="center">A IT Undergraduate from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dulajbhagya&label=Profile%20views&color=0e75b6&style=flat" alt="dulajbhagya" /> </p>
