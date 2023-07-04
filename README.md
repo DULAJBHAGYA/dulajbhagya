@@ -11,9 +11,9 @@
 
 ### 📚 Blogs posts
 <!-- BLOG-POST-LIST:START -->
-<h5 onclick="window.open('https://medium.com/@dulajupananda/mastering-mongodb-unleashing-the-power-of-a-document-database-a422836802c9', '_blank')">
-  Mastering MongoDB: Unleashing the Power of a Document Database
-</h5>
+<a href="https://medium.com/@dulajupananda/mastering-mongodb-unleashing-the-power-of-a-document-database-a422836802c9" target="_blank">
+</a>
+
 
 
 <!-- BLOG-POST-LIST:END -->
