@@ -11,9 +11,10 @@
 
 ### 📚 Blogs posts
 <!-- BLOG-POST-LIST:START -->
-[Mastering MongoDB: Unleashing the Power of a Document Database](https://medium.com/@dulajupananda/mastering-mongodb-unleashing-the-power-of-a-document-database-a422836802c9)
+1. [Mastering MongoDB: Unleashing the Power of a Document Database](https://medium.com/@dulajupananda/mastering-mongodb-unleashing-the-power-of-a-document-database-a422836802c9)
+2. [Simplifying Data Management with CRUD Operations in Node.js](https://medium.com/@dulajupananda/simplifying-data-management-with-crud-operations-in-node-js-eb7da8ed61d9)
   
-</a>
+
 
 <!-- BLOG-POST-LIST:END -->
 
