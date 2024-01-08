@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dulajbhagya&label=Profile%20views&color=0e75b6&style=flat" alt="dulajbhagya" /> </p>
 
-- 👨🏻‍💻 Check out my personal website https//dulajupananda.netlify.app
+- 👨🏻‍💻 Check out my personal website https://dulajupananda.netlify.app
 - 📝 I regularly write articles on [@dulajupananda](https://medium.com/@dulajupananda)
 
 - 💬 Ask me about **React, React Native**
