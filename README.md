@@ -10,13 +10,15 @@
 
 - 📫 How to reach me **dulajupananda@gmail.com**
 
-### 📚 Blogs posts
+### 📚 Blog posts
 <!-- BLOG-POST-LIST:START -->
 1. [Mastering MongoDB: Unleashing the Power of a Document Database](https://medium.com/@dulajupananda/mastering-mongodb-unleashing-the-power-of-a-document-database-a422836802c9)
 2. [Simplifying Data Management with CRUD Operations in Node.js](https://medium.com/@dulajupananda/simplifying-data-management-with-crud-operations-in-node-js-eb7da8ed61d9)
-3. [Emerging Trends in Artificial Inteligence (AI)](https://medium.com/@dulajupananda/emerging-trends-in-artificial-inteligence-ai-784479b5e72a)
+3. [Emerging Trends in Artificial intelligence (AI)](https://medium.com/@dulajupananda/emerging-trends-in-artificial-inteligence-ai-784479b5e72a)
 4. [The rise of remote work and its impact on the IT industry](https://medium.com/@dulajupananda/the-rise-of-remote-work-and-its-impact-on-the-it-industry-30c5a39fc60c)
 5. [Flutter BLoC State Management: A step-by-step guide](https://medium.com/@dulajupananda/flutter-bloc-state-management-a-step-by-step-guide-1f1ab1c358f7)
+6. [Making HTTP Requests in Flutter: Using the Dio Package]([https://medium.com/@dulajupananda/flutter-bloc-state-management-a-step-by-step-guide-1f1ab1c358f7](https://medium.com/@dulajupananda/making-http-requests-in-flutter-using-the-dio-package-09d2af361f36))
+
   
 
 
