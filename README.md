@@ -17,7 +17,7 @@
 3. [Emerging Trends in Artificial intelligence (AI)](https://medium.com/@dulajupananda/emerging-trends-in-artificial-inteligence-ai-784479b5e72a)
 4. [The rise of remote work and its impact on the IT industry](https://medium.com/@dulajupananda/the-rise-of-remote-work-and-its-impact-on-the-it-industry-30c5a39fc60c)
 5. [Flutter BLoC State Management: A step-by-step guide](https://medium.com/@dulajupananda/flutter-bloc-state-management-a-step-by-step-guide-1f1ab1c358f7)
-6. [Making HTTP Requests in Flutter: Using the Dio Package]([https://medium.com/@dulajupananda/flutter-bloc-state-management-a-step-by-step-guide-1f1ab1c358f7](https://medium.com/@dulajupananda/making-http-requests-in-flutter-using-the-dio-package-09d2af361f36))
+6. [Making HTTP Requests in Flutter: Using the Dio Package](https://medium.com/@dulajupananda/making-http-requests-in-flutter-using-the-dio-package-09d2af361f36))
 
   
 
