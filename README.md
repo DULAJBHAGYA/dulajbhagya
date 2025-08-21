@@ -81,7 +81,3 @@
 [![Medium](https://img.shields.io/badge/Medium-%40dulajupananda-black?style=for-the-badge&logo=medium)](https://medium.com/@dulajupananda)  
 [![Facebook](https://img.shields.io/badge/Facebook-Dulaj%20Bhagya-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/profile.php?id=100005369356450)  
 
----
-
-### 🐍 Fun Contribution Animation  
-![Snake animation](https://github.com/dulajbhagya/dulajbhagya/blob/output/github-contribution-grid-snake.svg)
