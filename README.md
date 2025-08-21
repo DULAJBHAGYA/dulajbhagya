@@ -1,41 +1,87 @@
-<h1 align="center">Hi 👋, I'm Dulaj Bhagya Upananda</h1>
-<h3 align="center">An IT Undergraduate from Sri Lanka</h3>
+<!-- Profile Header -->
+<h1 align="center">Hey there 👋, I'm Dulaj Bhagya Upananda</h1>
+<h3 align="center">💻 IT Undergraduate | 📍 Sri Lanka | 🚀 Tech Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dulajbhagya&label=Profile%20views&color=0e75b6&style=flat" alt="dulajbhagya" /> </p>
-
-- 👨🏻‍💻 Check out my personal website https://dulajupananda.netlify.app
-- 📝 I regularly write articles on [@dulajupananda](https://medium.com/@dulajupananda)
-
-- 💬 Ask me about **React, React Native**
-
-- 📫 How to reach me **dulajupananda@gmail.com**
-
-### 📚 Blog posts
-<!-- BLOG-POST-LIST:START -->
-1. [Mastering MongoDB: Unleashing the Power of a Document Database](https://medium.com/@dulajupananda/mastering-mongodb-unleashing-the-power-of-a-document-database-a422836802c9)
-2. [Simplifying Data Management with CRUD Operations in Node.js](https://medium.com/@dulajupananda/simplifying-data-management-with-crud-operations-in-node-js-eb7da8ed61d9)
-3. [Emerging Trends in Artificial intelligence (AI)](https://medium.com/@dulajupananda/emerging-trends-in-artificial-inteligence-ai-784479b5e72a)
-4. [The rise of remote work and its impact on the IT industry](https://medium.com/@dulajupananda/the-rise-of-remote-work-and-its-impact-on-the-it-industry-30c5a39fc60c)
-5. [Flutter BLoC State Management: A step-by-step guide](https://medium.com/@dulajupananda/flutter-bloc-state-management-a-step-by-step-guide-1f1ab1c358f7)
-6. [Making HTTP Requests in Flutter: Using the Dio Package](https://medium.com/@dulajupananda/making-http-requests-in-flutter-using-the-dio-package-09d2af361f36)
-
-  
-
-
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left"> 🔗 Connect with me</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/dulaj-bhagya-7029aa213/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100005369356450" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-<a href="https://medium.com/@dulajupananda" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" /></a>
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=0e75b6&center=true&vCenter=true&lines=IT+Undergraduate;Full+Stack+Developer;Mobile+App+Developer;Tech+Explorer" />
 </p>
 
-<h3 align="left"> 💻 Languages and Tools</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+<!-- Profile Views -->
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=dulajbhagya&label=Profile%20views&color=0e75b6&style=flat" alt="dulajbhagya" /> 
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dulajbhagya&show_icons=true&locale=en&layout=compact" alt="dulajbhagya" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dulajbhagya&show_icons=true&locale=en" alt="dulajbhagya" /></p>
+### 🌐 About Me
+- 👨🏻‍💻 Check out my personal website [dulajupananda.netlify.app](https://dulajupananda.netlify.app)  
+- 📝 I regularly write articles on [Medium](https://medium.com/@dulajupananda)  
+- 💬 Ask me about **React, React Native, Flutter, Node.js**  
+- 📫 Reach me at **dulajupananda@gmail.com**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dulajbhagya&" alt="dulajbhagya" /></p>
+---
+
+### ✍️ Latest Blog Posts
+- [Mastering MongoDB: Unleashing the Power of a Document Database](https://medium.com/@dulajupananda/mastering-mongodb-unleashing-the-power-of-a-document-database-a422836802c9)  
+- [Flutter BLoC State Management: A Step-by-step guide](https://medium.com/@dulajupananda/flutter-bloc-state-management-a-step-by-step-guide-1f1ab1c358f7)  
+- [Making HTTP Requests in Flutter: Using the Dio Package](https://medium.com/@dulajupananda/making-http-requests-in-flutter-using-the-dio-package-09d2af361f36)  
+- [Simplifying Data Management with CRUD Operations in Node.js](https://medium.com/@dulajupananda/simplifying-data-management-with-crud-operations-in-node-js-eb7da8ed61d9)  
+- [Emerging Trends in Artificial intelligence (AI)](https://medium.com/@dulajupananda/emerging-trends-in-artificial-inteligence-ai-784479b5e72a)  
+
+---
+
+### 🚀 Tech Stack  
+
+**Languages**  
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+**Frontend**  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+**Backend**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+
+**Database**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+**Tools**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+
+---
+
+### 📊 GitHub Stats  
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dulajbhagya&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=dulajbhagya&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dulajbhagya&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🔗 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dulaj%20Bhagya-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dulaj-bhagya-7029aa213/)  
+[![Medium](https://img.shields.io/badge/Medium-%40dulajupananda-black?style=for-the-badge&logo=medium)](https://medium.com/@dulajupananda)  
+[![Facebook](https://img.shields.io/badge/Facebook-Dulaj%20Bhagya-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/profile.php?id=100005369356450)  
+
+---
+
+### 🐍 Fun Contribution Animation  
+![Snake animation](https://github.com/dulajbhagya/dulajbhagya/blob/output/github-contribution-grid-snake.svg)
