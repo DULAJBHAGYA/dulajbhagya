@@ -18,7 +18,7 @@
 - 👨🏻‍💻 Check out my personal website [dulajupananda.netlify.app](https://dulajupananda.netlify.app)  
 - 📝 I regularly write articles on [Medium](https://medium.com/@dulajupananda)  
 - 💬 Ask me about **React, React Native, Flutter, Node.js**  
-- 📫 Reach me at **dulajupananda@gmail.com**
+- 📫 Reach me at **dulajupananda@icloud.com**
 
 ---
 
