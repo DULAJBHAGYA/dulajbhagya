@@ -23,7 +23,9 @@
 ---
 
 ### ✍️ Latest Blog Posts
-- [Mastering MongoDB: Unleashing the Power of a Document Database](https://medium.com/@dulajupananda/mastering-mongodb-unleashing-the-power-of-a-document-database-a422836802c9)  
+- [Building a Robust Data Pipeline in Python: From APIs to Dashboard]([https://medium.com/@dulajupananda/mastering-mongodb-unleashing-the-power-of-a-document-database-a422836802c9](https://medium.com/@dulajupananda/building-a-robust-data-pipeline-in-python-from-apis-to-dashboard-6e28dd277441))  
+- [Mastering MongoDB: Unleashing the Power of a Document Database]([https://medium.com/@dulajupananda/mastering-mongodb-unleashing-the-power-of-a-document-database-a422836802c9](https://medium.com/@dulajupananda/kubernetes-vs-docker-swarm-for-full-stack-apps-practical-differences-178dc0abd3db))  
+- [Kubernetes vs Docker Swarm for Full-Stack Apps — Practical Differences](https://medium.com/@dulajupananda/mastering-mongodb-unleashing-the-power-of-a-document-database-a422836802c9)  
 - [Flutter BLoC State Management: A Step-by-step guide](https://medium.com/@dulajupananda/flutter-bloc-state-management-a-step-by-step-guide-1f1ab1c358f7)  
 - [Making HTTP Requests in Flutter: Using the Dio Package](https://medium.com/@dulajupananda/making-http-requests-in-flutter-using-the-dio-package-09d2af361f36)  
 - [Simplifying Data Management with CRUD Operations in Node.js](https://medium.com/@dulajupananda/simplifying-data-management-with-crud-operations-in-node-js-eb7da8ed61d9)  
