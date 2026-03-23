@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Hero Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=f5c518&height=220&text=Dulaj%20Bhagya%20Upananda&fontAlign=50&fontAlignY=45&fontSize=52&fontColor=0d0d0d&desc=Full%20Stack%20Developer%20%20%7C%20%20Mobile%20Developer%20%20%7C%20%20IT%20Undergraduate%20%20%7C%20%20Sri%20Lanka&descAlign=50&descAlignY=72&descSize=15&descColor=1a1a1a" />
+<!-- Hero Banner with Figtree font -->
+<img width="100%" src="./banner.svg" />
 
 </div>
 
