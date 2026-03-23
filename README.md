@@ -6,23 +6,14 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/dulaj-bhagya-7029aa213/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://medium.com/@dulajupananda">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://dulajupananda.netlify.app">
-  <img src="https://img.shields.io/badge/Portfolio-f5c518?style=flat-square&logo=netlify&logoColor=0d0d0d" />
-</a>
-&nbsp;
-<a href="mailto:dulajupananda@icloud.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-</a>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=dulajbhagya&label=Profile+Views&color=f5c518&style=flat-square&labelColor=0d0d0d" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dulaj-bhagya-7029aa213/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dulajupananda)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23FFDD00.svg?style=for-the-badge&logo=netlify&logoColor=black)](https://dulajupananda.netlify.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dulajupananda@icloud.com)
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=dulajbhagya&label=Profile+Views&color=f5c518&style=flat-square&labelColor=0d0d0d)
 
 </div>
 
