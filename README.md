@@ -60,7 +60,7 @@ const dulaj: Developer = {
 
 ## Tech Stack
 
-<div align="center">
+<div align="left">
 
 **Frontend and Mobile**
 
