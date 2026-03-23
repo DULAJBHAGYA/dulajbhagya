@@ -40,75 +40,112 @@ I am Dulaj Bhagya Upananda — an IT undergraduate from Sri Lanka building full-
 - **Writing** — Technical articles on Medium covering Flutter, MongoDB, DevOps and more
 - **Contact** — dulajupananda@icloud.com
 
----
 
-## What I Work With
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: sans-serif; background: #fff; padding: 2rem; }
 
-```typescript
-const dulaj: Developer = {
-  stack    : ["React", "React Native", "Flutter", "Next.js", "Angular"],
-  languages: ["JavaScript", "TypeScript", "Dart", "Java", "Go", "C++"],
-  backend  : ["Node.js", "Spring Boot", ".NET"],
-  databases: ["PostgreSQL", "MongoDB", "MySQL", "MS SQL Server"],
-  cloud    : ["Firebase", "Supabase", "Docker", "Kubernetes"],
-  tools    : ["Git", "Figma", "Postman", "Blender"],
-  focus    : "Scalable systems, clean architecture, and great UX"
-};
-```
+  .stack-section { margin-bottom: 20px; }
 
----
+  .section-label {
+    font-size: 11px;
+    font-weight: 500;
+    color: #999;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+  }
 
-## Tech Stack
+  .icons-row { display: flex; flex-wrap: wrap; gap: 10px; }
 
-<div align="left">
+  .icon-pill {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 44px;
+    height: 44px;
+    border-radius: 8px;
+    border: 0.5px solid #e0e0e0;
+    background: #fff;
+    transition: border-color 0.15s, transform 0.12s;
+    cursor: default;
+  }
 
-**Frontend and Mobile**
+  .icon-pill:hover {
+    border-color: #aaa;
+    transform: translateY(-2px);
+  }
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+  .icon-pill img {
+    width: 24px;
+    height: 24px;
+    object-fit: contain;
+  }
+</style>
+</head>
+<body>
 
-**Languages**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-**Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MS SQL Server](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-
-**Cloud and DevOps**
-
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-
+<div class="stack-section">
+  <div class="section-label">Frontend & Mobile</div>
+  <div class="icons-row">
+    <div class="icon-pill" title="React"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></div>
+    <div class="icon-pill" title="React Native"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="opacity:0.7;filter:hue-rotate(180deg)"></div>
+    <div class="icon-pill" title="Flutter"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"></div>
+    <div class="icon-pill" title="Next.js"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"></div>
+    <div class="icon-pill" title="Angular"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"></div>
+  </div>
 </div>
 
----
+<div class="stack-section">
+  <div class="section-label">Languages</div>
+  <div class="icons-row">
+    <div class="icon-pill" title="JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></div>
+    <div class="icon-pill" title="TypeScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></div>
+    <div class="icon-pill" title="Dart"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"></div>
+    <div class="icon-pill" title="Java"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></div>
+    <div class="icon-pill" title="Go"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"></div>
+    <div class="icon-pill" title="C++"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"></div>
+  </div>
+</div>
+
+<div class="stack-section">
+  <div class="section-label">Backend</div>
+  <div class="icons-row">
+    <div class="icon-pill" title="Node.js"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></div>
+    <div class="icon-pill" title="Spring Boot"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"></div>
+    <div class="icon-pill" title=".NET"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg"></div>
+  </div>
+</div>
+
+<div class="stack-section">
+  <div class="section-label">Databases</div>
+  <div class="icons-row">
+    <div class="icon-pill" title="PostgreSQL"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"></div>
+    <div class="icon-pill" title="MongoDB"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"></div>
+    <div class="icon-pill" title="MySQL"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></div>
+    <div class="icon-pill" title="MS SQL Server"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"></div>
+  </div>
+</div>
+
+<div class="stack-section">
+  <div class="section-label">Cloud & DevOps</div>
+  <div class="icons-row">
+    <div class="icon-pill" title="Firebase"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"></div>
+    <div class="icon-pill" title="Supabase"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg"></div>
+    <div class="icon-pill" title="Docker"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"></div>
+    <div class="icon-pill" title="Kubernetes"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"></div>
+  </div>
+</div>
+
+<div class="stack-section">
+  <div class="section-label">Tools</div>
+  <div class="icons-row">
+    <div class="icon-pill" title="Git"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></div>
+    <div class="icon-pill" title="Figma"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"></div>
+    <div class="icon-pill" title="Postman"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg"></div>
+    <div class="icon-pill" title="Blender"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg"></div>
+  </div>
+</div>
 
 ## GitHub Stats
 
