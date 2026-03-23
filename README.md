@@ -1,8 +1,5 @@
 <div align="center">
 
-<!-- Hero Banner with Figtree font -->
-<img width="100%" src="./banner.svg" />
-
 </div>
 
 ---
