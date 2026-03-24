@@ -73,7 +73,7 @@ I'm Dulaj Upananda from Srilanka, and I do content on Design and Development. I 
 </div>
  
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dulajbhagya&bg_color=ffffff&color=0d0d0d&line=f5c518&point=e6a800&area=true&hide_border=true&radius=6" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dulajbhagya&bg_color=ffffff&color=0d0d0d&line=000000&point=e6a800&area=true&hide_border=true&radius=6" />
 </div>
  
 ---
