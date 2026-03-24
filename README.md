@@ -15,7 +15,7 @@ Software Engineer | DevOps and Full-Stack enthusiast | Design and development | 
     <img src="https://github.com/DULAJBHAGYA/dulajbhagya/blob/main/linkedin.png" alt="linkedin" height="40">
   </a>
     <a href="https://medium.com/@dulajupananda">
-    <img src="https://github.com/DULAJBHAGYA/dulajbhagya/blob/main/medeium.png" alt="medium" height="40">
+    <img src="https://github.com/DULAJBHAGYA/dulajbhagya/blob/main/medium.png" alt="medium" height="40">
   </a>
   <a href="https://www.facebook.com/jayanithya.ekanayaka/">
     <img src="https://raw.githubusercontent.com/Jayanithyaa/REPO/main/assets/facebook.png" alt="facebook" height="40">
