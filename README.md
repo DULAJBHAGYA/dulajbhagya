@@ -1,156 +1,16 @@
-<div align="center">
+![Design & Development](JAYANITHYA-4.png)
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Dulaj%20Bhagya%20Upananda&fontSize=42&fontColor=e8c97e&fontAlignY=38&desc=Full-Stack%20%26%20Mobile%20Developer%20%E2%80%94%20Sri%20Lanka&descColor=8899aa&descSize=16&animation=fadeIn" />
+## Hi there 👋 , I'm Jayanithya Madhushani
+#### Design & Development
 
-</div>
+I'm Dulaj Upananda from Srilanka, and I do content on Design and Development. I really enjoy learning languages and frameworks I also enjoy wireframing, ui, ux, and design in general.
 
----
+<br/>
+  
+[<img src='https://icones.pro/wp-content/uploads/2021/06/icone-github-orange.png' alt='github' height='40'>](https://github.com/Jayanithyaa)  [<img src='https://icones.pro/wp-content/uploads/2021/03/icone-linkedin-ronde-orange.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/jayanithya-madhushani-a5b306218?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BYjSPw86WT6uILzOL9ypcDQ%3D%3D)  [<img src='https://www.seekpng.com/png/full/273-2733805_follow-us-on-social-media-to-receive-the.png' alt='facebook' height='38'>](https://www.facebook.com/https://www.facebook.com/jayanithya.ekanayaka/)  [<img src='https://icones.pro/wp-content/uploads/2021/02/instagram-icone-orange.png' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/jayanithya.cj//)  [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Eo_circle_orange_letter-m.svg/1024px-Eo_circle_orange_letter-m.svg.png' alt='medium' height='40'>](https://medium.com/@jayanithyamadhushani)  
 
-<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3500&pause=1000&color=E8C97E&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=60&lines=Building+full-stack+and+mobile+applications.;Writing+about+software%2C+architecture%2C+and+technology.)](https://git.io/typing-svg)
-
-</div>
-
-<br />
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dulaj-bhagya-7029aa213/)&nbsp;&nbsp;
-[![Medium](https://img.shields.io/badge/-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@dulajupananda)&nbsp;&nbsp;
-[![Portfolio](https://img.shields.io/badge/-e8c97e?style=flat-square&logo=netlify&logoColor=0d0d0d)](https://dulajupananda.netlify.app)&nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dulajupananda@icloud.com)&nbsp;&nbsp;
-![Profile Views](https://komarev.com/ghpvc/?username=dulajbhagya&label=Views&color=e8c97e&style=flat-square)
-
-</div>
-
----
-
-## About
-
-```
-Currently  →  Pursuing a degree in Information Technology
-Focus      →  Full-stack and mobile development
-Interests  →  React · React Native · Flutter · Node.js · Clean Architecture
-Writing    →  Technical articles on Medium — Flutter, MongoDB, DevOps and more
-Contact    →  dulajupananda@icloud.com
-```
-
----
-
-## Tech Stack
-
-**Frontend & Mobile**
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" title="React" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" title="React Native" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40" title="Flutter" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" title="Next.js" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40" title="Angular" />
-</p>
-
-**Languages**
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" title="TypeScript" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40" title="Dart" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" title="Java" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40" title="Go" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" title="C++" />
-</p>
-
-**Backend**
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" title="Node.js" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" title="Spring Boot" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" height="40" title=".NET" />
-</p>
-
-**Databases**
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" title="PostgreSQL" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" title="MongoDB" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" title="MySQL" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40" title="MS SQL Server" />
-</p>
-
-**Cloud & DevOps**
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40" title="Firebase" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="40" height="40" title="Supabase" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" title="Docker" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" title="Kubernetes" />
-</p>
-
-**Tools**
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" title="Git" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" title="Figma" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40" title="Postman" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="40" height="40" title="Blender" />
-</p>
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dulajbhagya&show_icons=true&hide_border=true&bg_color=0d1117&title_color=e8c97e&icon_color=e8c97e&text_color=8899aa&ring_color=e8c97e" />
-&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dulajbhagya&layout=compact&hide_border=true&bg_color=0d1117&title_color=e8c97e&text_color=8899aa" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dulajbhagya&hide_border=true&background=0d1117&stroke=1e2030&ring=e8c97e&fire=e8c97e&currStreakLabel=e8c97e&sideLabels=8899aa&dates=444455&currStreakNum=e8e6e0&sideNums=e8e6e0" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dulajbhagya&bg_color=0d1117&color=8899aa&line=e8c97e&point=e8c97e&area=true&area_color=e8c97e&hide_border=true" />
-
-</div>
-
----
-
-## Writing
-
-| Area | Article |
-|---|---|
-| Data Engineering | [Building a Robust Data Pipeline in Python: From APIs to Dashboard](https://medium.com/@dulajupananda/building-a-robust-data-pipeline-in-python-from-apis-to-dashboard-6e28dd277441) |
-| Database | [Mastering MongoDB: Unleashing the Power of a Document Database](https://medium.com/@dulajupananda/mastering-mongodb-unleashing-the-power-of-a-document-database-a422836802c9) |
-| DevOps | [Kubernetes vs Docker Swarm for Full-Stack Apps — Practical Differences](https://medium.com/@dulajupananda/kubernetes-vs-docker-swarm-for-full-stack-apps-practical-differences-178dc0abd3db) |
-| Flutter | [Flutter BLoC State Management: A Step-by-step Guide](https://medium.com/@dulajupananda/flutter-bloc-state-management-a-step-by-step-guide-1f1ab1c358f7) |
-| Flutter | [Making HTTP Requests in Flutter: Using the Dio Package](https://medium.com/@dulajupananda/making-http-requests-in-flutter-using-the-dio-package-09d2af361f36) |
-| Node.js | [Simplifying Data Management with CRUD Operations in Node.js](https://medium.com/@dulajupananda/simplifying-data-management-with-crud-operations-in-node-js-eb7da8ed61d9) |
-| AI | [Emerging Trends in Artificial Intelligence](https://medium.com/@dulajupananda/emerging-trends-in-artificial-inteligence-ai-784479b5e72a) |
-
----
-
-## Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dulaj-bhagya-7029aa213/)&nbsp;
-[![Medium](https://img.shields.io/badge/-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dulajupananda)&nbsp;
-[![Portfolio](https://img.shields.io/badge/-e8c97e?style=for-the-badge&logo=netlify&logoColor=0d0d0d)](https://dulajupananda.netlify.app)&nbsp;
-[![Facebook](https://img.shields.io/badge/-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100005369356450)
-
-</div>
-
-<br />
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=100&section=footer" />
-
-</div>
+## Languages and Tools
+<br/>
+<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
