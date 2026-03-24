@@ -69,7 +69,7 @@ I'm Dulaj Upananda from Srilanka, and I do content on Design and Development. I 
 </div>
  
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dulajbhagya&hide_border=true&background=ffffff&stroke=e6a800&ring=f5c518&fire=e6a800&currStreakLabel=0d0d0d&sideLabels=0d0d0d&dates=888888&border_radius=6" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dulajbhagya&hide_border=true&background=ffffff&stroke=000000&ring=f5c518&fire=e6a800&currStreakLabel=0d0d0d&sideLabels=0d0d0d&dates=888888&border_radius=6" />
 </div>
  
 <div align="center">
