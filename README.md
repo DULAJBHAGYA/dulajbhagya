@@ -7,14 +7,14 @@ Software Engineer | DevOps and Full-Stack enthusiast | Design and development | 
 
 <br/>
   
-<p align="left">
+<p align="left" style="display: flex; gap: 12px; align-items: center;">
   <a href="https://github.com/DULAJBHAGYA">
     <img src="https://github.com/DULAJBHAGYA/dulajbhagya/blob/main/github.png" alt="github" height="40">
   </a>
   <a href="https://www.linkedin.com/in/dulajbhagya">
     <img src="https://github.com/DULAJBHAGYA/dulajbhagya/blob/main/linkedin.png" alt="linkedin" height="40">
   </a>
-    <a href="https://medium.com/@dulajupananda">
+  <a href="https://medium.com/@dulajupananda">
     <img src="https://github.com/DULAJBHAGYA/dulajbhagya/blob/main/medium.png" alt="medium" height="40">
   </a>
   <a href="https://www.facebook.com/jayanithya.ekanayaka/">
