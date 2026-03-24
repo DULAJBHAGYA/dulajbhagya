@@ -21,7 +21,7 @@ Software Engineer | DevOps and Full-Stack enthusiast | Design and development | 
     <img src="https://github.com/DULAJBHAGYA/dulajbhagya/blob/main/facebook.jpg" alt="facebook" height="40">
   </a>
   <a href="https://www.instagram.com/jayanithya.cj/">
-    <img src="https://raw.githubusercontent.com/Jayanithyaa/REPO/main/assets/instagram.png" alt="instagram" height="40">
+    <img src="https://github.com/DULAJBHAGYA/dulajbhagya/blob/main/instagram.png" alt="instagram" height="40">
   </a>
 </p>
 
