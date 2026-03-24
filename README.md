@@ -9,7 +9,7 @@ Software Engineer | DevOps and Full-Stack enthusiast | Design and development | 
   
 <p align="left">
   <a href="https://github.com/Jayanithyaa">
-    <img src="https://raw.githubusercontent.com/Jayanithyaa/REPO/main/assets/github.png" alt="github" height="40">
+    <img src="https://github.com/DULAJBHAGYA/dulajbhagya/blob/main/github.png" alt="github" height="40">
   </a>
   <a href="https://www.linkedin.com/in/jayanithya-madhushani-a5b306218">
     <img src="https://github.com/DULAJBHAGYA/dulajbhagya/blob/main/linkedin.png" alt="linkedin" height="40">
