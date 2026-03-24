@@ -1,4 +1,4 @@
-![Design & Development](JAYANITHYA-4.png)
+![Design & Development](DulajUpananda1.png)
 <br/>
 
 ## Hi there 👋 , I'm Dulaj Upananda
