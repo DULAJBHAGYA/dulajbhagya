@@ -7,7 +7,23 @@ Software Engineer | DevOps and Full-Stack enthusiast | Design and development | 
 
 <br/>
   
-[<img src='https://icones.pro/wp-content/uploads/2021/06/icone-github-orange.png' alt='github' height='40'>](https://github.com/Jayanithyaa)  [<img src='https://icones.pro/wp-content/uploads/2021/03/icone-linkedin-ronde-orange.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/jayanithya-madhushani-a5b306218?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BYjSPw86WT6uILzOL9ypcDQ%3D%3D)  [<img src='https://www.seekpng.com/png/full/273-2733805_follow-us-on-social-media-to-receive-the.png' alt='facebook' height='38'>](https://www.facebook.com/https://www.facebook.com/jayanithya.ekanayaka/)  [<img src='https://icones.pro/wp-content/uploads/2021/02/instagram-icone-orange.png' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/jayanithya.cj//)  [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Eo_circle_orange_letter-m.svg/1024px-Eo_circle_orange_letter-m.svg.png' alt='medium' height='40'>](https://medium.com/@jayanithyamadhushani)  
+<p align="left">
+  <a href="https://github.com/Jayanithyaa">
+    <img src="https://raw.githubusercontent.com/Jayanithyaa/REPO/main/assets/github.png" alt="github" height="40">
+  </a>
+  <a href="https://www.linkedin.com/in/jayanithya-madhushani-a5b306218">
+    <img src="https://raw.githubusercontent.com/Jayanithyaa/REPO/main/assets/linkedin.png" alt="linkedin" height="40">
+  </a>
+  <a href="https://www.facebook.com/jayanithya.ekanayaka/">
+    <img src="https://raw.githubusercontent.com/Jayanithyaa/REPO/main/assets/facebook.png" alt="facebook" height="40">
+  </a>
+  <a href="https://www.instagram.com/jayanithya.cj/">
+    <img src="https://raw.githubusercontent.com/Jayanithyaa/REPO/main/assets/instagram.png" alt="instagram" height="40">
+  </a>
+  <a href="https://medium.com/@jayanithyamadhushani">
+    <img src="https://raw.githubusercontent.com/Jayanithyaa/REPO/main/assets/medium.png" alt="medium" height="40">
+  </a>
+</p>
 
 
 ## Tech Stack
