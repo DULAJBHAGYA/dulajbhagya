@@ -60,3 +60,20 @@ I'm Dulaj Upananda from Srilanka, and I do content on Design and Development. I 
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
  
 </div>
+
+## GitHub Stats
+ 
+<div align="center">
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=dulajbhagya&show_icons=true&hide_border=true&bg_color=ffffff&title_color=0d0d0d&icon_color=e6a800&text_color=333333&border_radius=6" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dulajbhagya&layout=compact&hide_border=true&bg_color=ffffff&title_color=0d0d0d&text_color=333333&border_radius=6" />
+</div>
+ 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dulajbhagya&hide_border=true&background=ffffff&stroke=e6a800&ring=f5c518&fire=e6a800&currStreakLabel=0d0d0d&sideLabels=0d0d0d&dates=888888&border_radius=6" />
+</div>
+ 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dulajbhagya&bg_color=ffffff&color=0d0d0d&line=f5c518&point=e6a800&area=true&hide_border=true&radius=6" />
+</div>
+ 
+---
