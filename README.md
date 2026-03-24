@@ -13,7 +13,7 @@ I'm Dulaj Upananda from Srilanka, and I do content on Design and Development. I 
 
 ## Tech Stack
  
-<div align="center">
+<div align="left">
  
 **Frontend and Mobile**
  
