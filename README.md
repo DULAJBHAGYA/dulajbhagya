@@ -2,9 +2,8 @@
 <br/>
 
 ## Hi there 👋 , I'm Dulaj Upananda
-#### Design & Development
 
-I'm Dulaj Upananda from Srilanka, and I do content on Design and Development. I really enjoy learning languages and frameworks I also enjoy wireframing, ui, ux, and design in general.
+Software Engineer | DevOps and Full-Stack enthusiast | Design and development | UI/UX | Next.js | React | Java | Spring Boot | MERN | Flutter | Graduated in BSc (Hons) ITM, University of Moratuwa
 
 <br/>
   
